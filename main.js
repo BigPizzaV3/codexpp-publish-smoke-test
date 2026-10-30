@@ -1,0 +1,1 @@
+codexPlus.extension((ctx) => { ctx.registerCommand({ name: "publish-smoke", description: "发布流程测试", run: (args, { toast }) => toast("发布流程测试") }); });

@@ -1,0 +1,9 @@
+{
+  "author": "BigPizzaV3",
+  "description": "Codex++ 一键发布的实测包，可以删除",
+  "id": "publish-smoke-test",
+  "name": "发布流程测试",
+  "renderer": "main.js",
+  "repository": "BigPizzaV3/codexpp-publish-smoke-test",
+  "version": "0.1.0"
+}
